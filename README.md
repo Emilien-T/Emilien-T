@@ -1,15 +1,17 @@
 ## Hi there 👋
+I am Emilien Taisne. Entering my 4th year in Software Engineering at McGill.
 
-## Table of Contents
-- [How to Create Your Profile?](#how-to-create-your-profile)
-- [How to Customize Markdown files?](#how-to-customize-markdown-files)
-- [How to Create New Repository?](#how-to-create-new-repository)
+I am passionate about Game Development 😊🎮
 
-- 🔭 I’m currently working on MMM-Unity
-- 🌱 I’m currently learning Arduino
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Projects that I have worked on 
+## Game Development Projects:
+- [Yggdrowsil - Ubisoft Game Labs 2024](https://github.com/Emilien-T/GameLabs2024)
+- [Brazen Bull - McGameJam 2024](https://github.com/EzNoGame/McGill-Game-Jam-2024)
+- [Mega Melee Madness - IN PROGRESS](https://github.com/Emilien-T/MMM-unity)
+- McGill VR Hot Dog Game - IN PROGRESS
+- [WayWard Bones - McGameJam 2022](https://github.com/nicktstewart/McGameJam)
+
+## School Projects:
+- [Course Champ - ECSE 428](https://github.com/Emilien-T/CourseChamp)
+- [Parking Lot Management System - ECSE 321](https://github.com/McGill-ECSE321-W23/project-group-01)
+- [Lego Robot - ECSE 211](https://github.com/julia-b-grenier/ecse211)
