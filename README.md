@@ -1,11 +1,14 @@
+# Introduction 👋
+Hello! I am Emilien Taisne and i am a software engineering student at McGill. I am passionate about Game Development 😊🎮 and I am learning everyday more about the feild.
 
-I am Emilien Taisne. Entering my 4th year in Software Engineering at McGill.
-
-I am passionate about Game Development 😊🎮
-
-Projects that I have worked on 
+I am really interested in the networking aspects of game dev such as multiplayer architecture, data synchronozation and more! The Ubisoft GameLabs competition pushed me to learn alot about this part of game development and I love it!
+I have experience in Unity and Unreal Engine.
+# Technical Skill
+[![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)](#)
+## Languages 
+# Some Repositories 👀
 ## Game Development Projects:
-- [Yggdrowsil - Ubisoft Game Labs 2024](https://github.com/Emilien-T/GameLabs2024)
+- [Yggdrowsil - Ubisoft Game Labs 2024](https://github.com/Emilien-T/GameLabs2024) : Game submitted to the Ubisoft GameLabs competition, about the
 - [Wizard Handz - McGameJam 2025](https://github.com/CRook99/McGameJam2025)
 - [Brazen Bull - McGameJam 2024](https://github.com/EzNoGame/McGill-Game-Jam-2024)
 - [Mega Melee Madness - IN PROGRESS](https://github.com/Emilien-T/MMM-unity)
