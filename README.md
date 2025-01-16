@@ -3,11 +3,29 @@ Hello! I am Emilien Taisne and i am a software engineering student at McGill. I 
 
 I am really interested in the networking aspects of game dev such as multiplayer architecture, data synchronozation and more! The Ubisoft GameLabs competition pushed me to learn alot about this part of game development and I love it!
 I have experience in Unity and Unreal Engine.
-# Technical Skill
+# Technical Skill 🖥️
+Game Engines I am proficient in:
+
 [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)](#)
-## Languages 
+[![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#)
+
+Coding Languages I am proficient in:
+
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![OCaml](https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=fff)](#)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
+
+## Languages 🌎
+English - Fluent <br>
+French - Native <br>
+Chinese - Intermediate (HSK 3 level) <br>
 # Some Repositories 👀
-## Game Development Projects:
+## Game Development Projects: 🎮
 - [Yggdrowsil - Ubisoft Game Labs 2024](https://github.com/Emilien-T/GameLabs2024) : Game submitted to the Ubisoft GameLabs competition, about the
 - [Wizard Handz - McGameJam 2025](https://github.com/CRook99/McGameJam2025)
 - [Brazen Bull - McGameJam 2024](https://github.com/EzNoGame/McGill-Game-Jam-2024)
@@ -15,7 +33,7 @@ I have experience in Unity and Unreal Engine.
 - McGill VR Hot Dog Game - IN PROGRESS
 - [WayWard Bones - McGameJam 2022](https://github.com/nicktstewart/McGameJam)
 
-## School Projects:
+## School Projects: 🎓
 - [Raytracer - COMP 557](https://github.com/Emilien-T)
 - [Course Champ - ECSE 428](https://github.com/Emilien-T/CourseChamp)
 - [Parking Lot Management System - ECSE 321](https://github.com/McGill-ECSE321-W23/project-group-01)
