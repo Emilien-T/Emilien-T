@@ -1,5 +1,5 @@
 # Introduction 👋
-Hello! I am Emilien Taisne and i am a software engineering student at McGill. I am passionate about Game Development 😊🎮 and I am learning everyday more about the feild.
+Hello! I am Emilien Taisne and i am a software engineering student at McGill. I am passionate about Game Development 😊🎮 and I am learning everyday more about the field.
 
 I am really interested in the networking aspects of game dev such as multiplayer architecture, data synchronozation and more! The Ubisoft GameLabs competition pushed me to learn alot about this part of game development and I love it!
 I have experience in Unity and Unreal Engine.
@@ -26,7 +26,7 @@ French - Native <br>
 Chinese - Intermediate (HSK 3 level) <br>
 # Some Repositories 👀
 ## Game Development Projects: 🎮
-- [Yggdrowsil - Ubisoft Game Labs 2024](https://github.com/Emilien-T/GameLabs2024) : Game submitted to the Ubisoft GameLabs competition, about the
+- [Yggdrowsil - Ubisoft Game Labs 2024](https://github.com/Emilien-T/GameLabs2024) : Game submitted to the **Ubisoft GameLabs competition**, worked in a team of 8, with a team of 4 programmers. I was responsible for the **multiplayer architecture** in Unity using Unity's Netcode for Gameobjects. I developped the **Lobby system** to that players can connect to each other using symboles for a accessible system. I also worked on the **replication** so that each player sees the same game and see each other using abilities, dash, select levels ect. Finally I was in charge of **leading** the programmer team so that we are coordinated and that everyone has work to do and merging our work correctly.
 - [Wizard Handz - McGameJam 2025](https://github.com/CRook99/McGameJam2025)
 - [Brazen Bull - McGameJam 2024](https://github.com/EzNoGame/McGill-Game-Jam-2024)
 - [Mega Melee Madness - IN PROGRESS](https://github.com/Emilien-T/MMM-unity)
