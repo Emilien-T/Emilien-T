@@ -26,7 +26,7 @@ French - Native <br>
 Chinese - Intermediate (HSK 3 level) <br>
 # Some Repositories 👀
 ## Game Development Projects: 🎮
-- [Yggdrowsil - Ubisoft Game Labs 2024](https://github.com/Emilien-T/GameLabs2024) : Game submitted to the **Ubisoft GameLabs competition**, worked in a team of 8, with a team of 4 programmers. I was responsible for the **multiplayer architecture** in Unity using Unity's Netcode for Gameobjects. I developped the **Lobby system** to that players can connect to each other using symboles for a accessible system. I also worked on the **replication** so that each player sees the same game and see each other using abilities, dash, select levels ect. Finally I was in charge of **leading** the programmer team so that we are coordinated and that everyone has work to do and merging our work correctly.
+- [Yggdrowsil - Ubisoft Game Labs 2024](https://github.com/Emilien-T/GameLabs2024) : Game submitted to the **Ubisoft GameLabs competition**, worked in a team of 8, with a team of 4 programmers. I was responsible for the **multiplayer architecture** in Unity using Unity's Netcode for Gameobjects. I developped the **Lobby system** to that players can connect to each other using symboles for a accessible system. I also worked on the **replication** so that each player sees the same game and see each other using abilities, dash, select levels ect. Finally I was in charge of **leading** the programmer team so that we are coordinated and that everyone has work to do and merging our work correctly. <br><img src="ygg.png" alt="Main Menu screen of the Yggdrowsil game" class="centerAlign" width="24%"/> <img src="gameplay.png" alt="Gameplay of the Yggdrowsil game" class="centerAlign" width="24%"/> <img src="lobby.png" alt="Lobby screen of the Yggdrowsil game" class="centerAlign" width="24%"/> <img src="happy2.jpg" alt="Dev team infront of a glowing ubisoft logo" class="centerAlign" width="24%"/>
 - [Wizard Handz - McGameJam 2025](https://github.com/CRook99/McGameJam2025)
 - [Brazen Bull - McGameJam 2024](https://github.com/EzNoGame/McGill-Game-Jam-2024)
 - [Mega Melee Madness - IN PROGRESS](https://github.com/Emilien-T/MMM-unity)
@@ -38,3 +38,38 @@ Chinese - Intermediate (HSK 3 level) <br>
 - [Course Champ - ECSE 428](https://github.com/Emilien-T/CourseChamp)
 - [Parking Lot Management System - ECSE 321](https://github.com/McGill-ECSE321-W23/project-group-01)
 - [Lego Robot - ECSE 211](https://github.com/julia-b-grenier/ecse211)
+
+<style>
+
+/* Create a CSS class to style images to center-align */
+.centerAlign
+{
+    display:block;
+    float:none;
+    /* Set both the left and right margins to `auto` to cause the image to be centered. */
+    margin-left:auto;
+    margin-right:auto;
+    width:60%;
+}
+
+/* Create a CSS class to style images to left-align, or "float left" */
+.leftAlign
+{
+    display:inline-block;
+    float:left;
+    /* provide a 15 pixel gap between the image and the text to its right */
+    margin-right:15px;
+    width:60%;
+}
+
+/* Create a CSS class to style images to right-align, or "float right" */
+.rightAlign
+{
+    display:inline-block;
+    float:right;
+    /* provide a 15 pixel gap between the image and the text to its left */
+    margin-left:15px;
+    width:60%;
+}
+
+</style>
