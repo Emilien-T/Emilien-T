@@ -1,7 +1,7 @@
 # Introduction 👋
 Hello! I am Emilien Taisne and I am a software engineering student at McGill. I am passionate about Game Development 😊🎮 and I am learning more everyday about the industry.
 
-I am interested in the networking aspects of game development such as multiplayer architecture, data synchronozation and more! The Ubisoft GameLabs competition pushed me to learn alot about the multiplayer aspect of game development!
+I am interested in the networking aspects of game development such as multiplayer architecture, data synchronozation and more!
 Working with my peers on the Ubisoft GameLabs competition inspires me to work more on collaborative projects :)
 # Technical Skill 🖥️
 Game Engines I am proficient in:
